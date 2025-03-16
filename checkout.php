@@ -1,7 +1,7 @@
 <?php
 require_once './stripe-php-10.3.0/stripe-php-10.3.0/init.php';
 
-$stripe = new \Stripe\StripeClient(                                               'sk_test_51R2Ib3FWldYWJyGKc0cE0YngpY3U0oMZJjBOPWw0XT5xbZGb223TlJEfNiemj6Gr922L8V31R38s4H7k6prPPkPC00YtYcuuGl');
+$stripe = new \Stripe\StripeClient('./config.php');
 
 //prepare shopping cart data for stripe
 $lineItems = [
