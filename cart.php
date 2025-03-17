@@ -2,5 +2,5 @@
 
 Click Checkout to pay at Stripe.com.
 <form action="./checkout.php">
-    <button type="submit">checkout</button>
+    <button type="submit">PAY</button>
 </form>
