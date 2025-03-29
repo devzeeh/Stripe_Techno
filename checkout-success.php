@@ -31,7 +31,7 @@ echo 'Payment Successful!';
                 </div>
                 <div class="modal-body">
                     Your payment has been processed successfully.
-                    <p>Redirecting in <span id="countdown"></span> seconds...</p>
+                    <p>Redirecting to Home Page in <span id="countdown"></span> seconds...</p>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-primary" onclick="redirectToCart()">Close</button>
