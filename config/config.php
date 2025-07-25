@@ -1,3 +1,0 @@
-<?php
-define('STRIPE_KEY', 'sk_test_51R2Ib3FWldYWJyGKc0cE0YngpY3U0oMZJjBOPWw0XT5xbZGb223TlJEfNiemj6Gr922L8V31R38s4H7k6prPPkPC00YtYcuuGl');
-?>
