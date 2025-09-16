@@ -18,25 +18,6 @@ A demo project for the Technopreneurship course in the Computer Engineering (CpE
 - Composer (for dependency management)
 - A Stripe account (for test API keys)
 
-## Setup Instructions
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/devzeeh/Stripe_Techno.git
-   cd Stripe_Techno
-   ```
-
-2. **Install dependencies**  
-   ```bash
-   composer install
-   ```
-
-3. **Configure Stripe API keys**  
-   - Copy `.env.example` to `.env` and add your Stripe test keys.
-
-4. **Run the demo**  
-   - Start with your preferred local server (e.g., `php -S localhost:8000`).
-
 ## Usage
 
 - Open the demo site on your localhost.
@@ -45,4 +26,4 @@ A demo project for the Technopreneurship course in the Computer Engineering (CpE
 
 ## License
 
-This project is for school and educational use only.
+This project is for my **School Project** and educational use only.
